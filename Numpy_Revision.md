@@ -289,7 +289,7 @@ A structural, dense reference guide designed for rapid technical review.
     ```
 
 ---
-
+<!-- 
 ## 18. Continuous Uniform Distribution (`np.random.default_rng().random`)
 *   **Feature**: Instantiates modern Generator engines to populate arrays with floats over uniform continuous spreads `[0.0, 1.0)`.
 *   **Syntax**: `generator.random(size=None)`
@@ -320,4 +320,4 @@ A structural, dense reference guide designed for rapid technical review.
 *   **Sample Output**:
     ```text
     [4 2 5 1 3]
-    ```
+    ``` -->
