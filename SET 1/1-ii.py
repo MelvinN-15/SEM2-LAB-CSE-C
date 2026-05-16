@@ -2,8 +2,15 @@
 
 import numpy as np
 
-zeros_array = np.ones((2, 3))     # 2x3 matrix of 0.0
-sequence    = np.arange(0, 10, 2)  # [0, 2, 4, 6, 8]
-linear_space = np.linspace(0, 1, 5) # [0. , 0.25, 0.5 , 0.75, 1. ]
+lst = range(10)
+# or lst = [val for val in range(0,10)]
+# or lst = [0,1,2,3,4,5,6,7,8,9]
+oneD = np.array(lst)
 
-print(linear_space)
+print(oneD)
+
+"""
+OUTPUT:
+[0 1 2 3 4 5 6 7 8 9]
+
+"""

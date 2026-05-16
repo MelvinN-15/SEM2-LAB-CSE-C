@@ -3,3 +3,48 @@
 (i) Write a Python program to swap two numbers without using a third variable. 
 (ii) Write a Python program to create a 1D NumPy array of numbers from 0 to 9 and print it.
 
+2.
+
+(i) Write a Python program to find the maximum of two numbers.
+(ii) Write a Python program to reshape a NumPy array of shape (9,) to (3, 3).
+
+3.
+
+(i) Write a Python program to find the square root of a number.
+(ii) Write a Python program to generate a NumPy array of 100 random numbers and count how many are greater than 0.5.
+
+4.
+
+(i) Write a Python program to calculate the area of a circle given its radius. 
+(ii) Write a Python program to create a Pandas DataFrame using a dictionary and print its first 5 rows
+
+5.
+
+(i)Write a Python program to convert kilometres to miles. 
+(ii) Write a Python program to find the number of null values in each column of a Pandas DataFrame.
+
+
+6.
+
+(i)Write a Python program to find the largest among three numbers. 
+(ii) Write a Python program to group the Iris dataset by species and calculate the mean of each group.
+
+7.
+
+(i) Write a python program to check if a number is prime in Python 
+(ii) Write a Python program to read a CSV file containing the Iris dataset using Pandas.
+
+8.
+
+(i) Write a Python program to check if a number is an Armstrong number.
+(ii) Write a Python program to read data from an Excel file and display the first 5 rows.
+
+9.
+
+(i) Write a Python program to find the LCM of two numbers. 
+(ii) Write a Python program to display the number of rows and columns in a dataset using Pandas.
+
+10.
+
+(i) Write a Python program to check if a given string is a palindrome.
+(ii) Write a Python program to find the variance and standard deviation of petal width.
