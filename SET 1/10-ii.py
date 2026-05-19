@@ -9,5 +9,6 @@ petal_data_var = df['petal_width'].var()
 
 petal_data_sd = df['petal_width'].std()
 
-# YET TO COMPLETE
-
+print("Petal width data:")
+print(f"Variance: {petal_data_var:.2f}")
+print(f"Standard Deviation: {petal_data_sd:.2f}")

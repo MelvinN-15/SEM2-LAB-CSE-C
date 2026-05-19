@@ -48,3 +48,13 @@
 
 (i) Write a Python program to check if a given string is a palindrome.
 (ii) Write a Python program to find the variance and standard deviation of petal width.
+
+11.
+
+(i) Write a Python program to calculate the sum of first N natural numbers.
+(ii) Write a Python program to create a box plot for sepal length by species.
+
+12.
+
+(i) Write a Python program to print the multiplication table of a given number.
+(ii) Write a Python program to perform linear regression on BMI vs Glucose in the UCI diabetes dataset.
