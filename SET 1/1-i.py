@@ -3,9 +3,12 @@
 A = int(input("Enter value of A: "))
 B = int(input("Enter value of B: "))
 
-temp = A
-A = B
-B = temp
+A, B = B, A
+
+# Another way to do it
+# A = A + B
+# B = A - B
+# A = A - B
 
 print("Values of swapping A & B:")
 print(f"Value of A: {A} \nValue of B: {B}")
