@@ -58,3 +58,28 @@
 
 (i) Write a Python program to print the multiplication table of a given number.
 (ii) Write a Python program to perform linear regression on BMI vs Glucose in the UCI diabetes dataset.
+
+13.
+
+(i) Write a Python program to find the factorial of a given number.
+(ii) Write a Python program to plot a scatter plot with a regression line for Age vs Blood Pressure.
+
+14.
+
+(i) Write a Python program to reverse a number. 
+(ii) Write a Python program to get basic statistical summaries of a DataFrame (mean, std, min, max, etc.)
+
+15.
+
+(i) Write a Python program to count the number of digits in a given number.
+(ii) Write a Python program to calculate the mean, median, and mode of sepal length in the Iris dataset.
+
+16.
+
+(i) Write a Python program to find the largest number in a list.
+(ii) Write a Python program to display the last 5 rows of a DataFrame.
+
+17.
+
+(i) Write a Python program to find the second largest number in a list.
+(ii) Compare standard deviation of BMI between UCI and Pima datasets.
