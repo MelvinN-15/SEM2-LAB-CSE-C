@@ -83,3 +83,18 @@
 
 (i) Write a Python program to find the second largest number in a list.
 (ii) Compare standard deviation of BMI between UCI and Pima datasets.
+
+18.
+
+(i) Write a Python program to sort a list in ascending order. 
+(ii) Compare regression coefficients for Glucose and BMI from UCI and Pima datasets.
+
+19.
+
+(i)  Write a Python program to reverse a list.
+(ii) Write a Python program to find and replace all missing (NaN) values in the dataset with the column mean.
+
+20.
+
+(i) Write a Python program to count the number of vowels in a given string.
+(ii) Identify and remove duplicate rows in the Iris dataset, if any.
