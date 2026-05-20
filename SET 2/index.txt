@@ -1,0 +1,19 @@
+1. (ii) Write a Python program to create a 2D NumPy array (3x3) with random integers and print its transpose.
+
+2. (ii) Write a program to add two NumPy arrays element-wise.
+
+3. (ii) Write a Python program to find a NumPy array's maximum and minimum values.
+
+5. (ii) Write a Python program to find the number of empty values in each row of a Pandas DataFrame.
+
+8. (ii) Write a Python program to display the number of rows and columns in a dataset using Pandas.
+
+9. (ii) Write a Python program to select a single column from a DataFrame.
+
+12. (ii) Write a Python program to sort a DataFrame by a column.
+
+16. (ii) Write a Python program to rename columns in a DataFrame.
+
+17. (ii) Write a Python program to set a column as the index of a DataFrame?.
+
+18. (ii) Write a Python program to drop rows with missing values.
